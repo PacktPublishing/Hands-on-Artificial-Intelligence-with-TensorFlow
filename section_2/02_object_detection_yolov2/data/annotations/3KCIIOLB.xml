@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3KCIIOLB.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/3KCIIOLB.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>21</ymin>
+			<xmax>86</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

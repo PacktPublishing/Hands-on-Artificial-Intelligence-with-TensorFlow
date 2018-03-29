@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>215VJGKP.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/215VJGKP.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>1</ymin>
+			<xmax>275</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1PVIAVOA.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/1PVIAVOA.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>878</ymin>
+			<xmax>696</xmax>
+			<ymax>1727</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3C3RHUHD.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/3C3RHUHD.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yield_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>62</ymin>
+			<xmax>175</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

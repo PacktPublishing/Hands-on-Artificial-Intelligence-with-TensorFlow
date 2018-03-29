@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5AWGLNOK.jpg</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/5AWGLNOK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>127</ymin>
+			<xmax>180</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

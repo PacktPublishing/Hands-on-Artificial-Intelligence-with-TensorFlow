@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>473RNFO7.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/473RNFO7.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>263</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>2</ymin>
+			<xmax>160</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>

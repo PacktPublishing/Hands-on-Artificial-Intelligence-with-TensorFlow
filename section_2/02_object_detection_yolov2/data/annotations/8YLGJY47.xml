@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8YLGJY47.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/8YLGJY47.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>204</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yield_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>83</ymin>
+			<xmax>134</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

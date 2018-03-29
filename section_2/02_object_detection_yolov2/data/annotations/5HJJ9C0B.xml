@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5HJJ9C0B.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/5HJJ9C0B.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>60</ymin>
+			<xmax>255</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

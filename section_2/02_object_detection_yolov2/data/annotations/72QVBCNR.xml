@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>72QVBCNR.JPEG</filename>
+	<path>/Users/saibasak/Workspace/hands-on-ai-with-tensorflow/section_2/03_object_detection_yolov2/data/images/72QVBCNR.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yield_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>82</ymin>
+			<xmax>409</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>
