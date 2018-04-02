@@ -11,10 +11,13 @@ You will learn how TensorFlow can be used to analyze a variety of data sets and 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Build and deploy natural-sounding chatbots 
-<LI>Design and build sound interaction models for your chatbots 
-<LI>Deploy web apps to Heroku 
-<LI>Develop third-party apps for Slack and other messaging platforms </LI></UL></DIV>
+<LI>Explore the current state of Machine Learning and Artificial Intelligence. 
+<LI>Develop the understanding to build AI systems using different machine learning 
+models 
+<LI>Optimize machine learning models for better performance and accuracy
+<LI>Understand different deep learning models for computer vision
+<LI>Explore generative models and how they generate information from random noise
+<LI>Code the most trending AI algorithms that outperform humans in video games </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
